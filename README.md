@@ -1,0 +1,1 @@
+# whatsapp-bug-tool
